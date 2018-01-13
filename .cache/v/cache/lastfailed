@@ -1,0 +1,4 @@
+{
+  "test_increment.py::test_increment_negative": true,
+  "test_increment.py::test_increment_rollover_msd_and_lsd_negative": true
+}

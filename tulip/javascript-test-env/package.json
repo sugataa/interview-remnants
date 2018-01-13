@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "check": "node main.js"
+  },
+  "author": "Tulip Interfaces",
+  "dependencies": {
+    "express": "^4.16.1",
+    "pg": "^7.3.0"
+  }
+}
